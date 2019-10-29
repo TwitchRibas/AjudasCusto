@@ -1,0 +1,8 @@
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Ribas\Documents\Projetos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb
